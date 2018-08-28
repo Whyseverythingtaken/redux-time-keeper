@@ -1,0 +1,13 @@
+{
+  "name": "redux-time-keeper",
+  "version": "0.1",
+  "description": "A utility to keep track of time in redux state",
+  "main": "index.js",
+  "repository": "https://github.com/Whyseverythingtaken/redux-time-keeper",
+  "author": "Hamed Ali <123hamed@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7"
+  }
+}
